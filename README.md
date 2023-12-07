@@ -13,5 +13,7 @@ Steps:-
 
 Architectur - I have not use any specefic Architectur for this simple app I have just view and its viewmodel and model file and some helper code.
 
-https://github.com/sharmahitesh1191/HealthcareAssignment/assets/87668288/8237d282-957f-42f3-bc6e-8a247deee628
+https://github.com/sharmahitesh1191/HealthcareAssignment/assets/87668288/844b1ad9-eb60-4901-822e-a9d68b679b2b
+
+
 
