@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DAFF1D1D-D8D9-4262-8154-54653876D7EB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9EF4C00-F0AF-4D4C-9D3C-82A2F6F3C4C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthcareAssignment/Topics/TopicsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "makeAPICall()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E9EF4C00-F0AF-4D4C-9D3C-82A2F6F3C4C5 - 3e9d081df7e962a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HealthcareAssignment.TopicsViewModel.makeAPICall() -&gt; ()"
+                  moduleName = "HealthcareAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hiteshsharma/Desktop/IOS%20Projects/HealthcareAssignment/HealthcareAssignment/Topics/TopicsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1176">
+               </Location>
+               <Location
+                  uuid = "E9EF4C00-F0AF-4D4C-9D3C-82A2F6F3C4C5 - 3e9d081df7e962a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HealthcareAssignment.TopicsViewModel.makeAPICall() -&gt; ()"
+                  moduleName = "HealthcareAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hiteshsharma/Desktop/IOS%20Projects/HealthcareAssignment/HealthcareAssignment/Topics/TopicsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "792">
+               </Location>
+               <Location
+                  uuid = "E9EF4C00-F0AF-4D4C-9D3C-82A2F6F3C4C5 - 3e9d081df7e962a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HealthcareAssignment.TopicsViewModel.makeAPICall() -&gt; ()"
+                  moduleName = "HealthcareAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hiteshsharma/Desktop/IOS%20Projects/HealthcareAssignment/HealthcareAssignment/Topics/TopicsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "756">
+               </Location>
+               <Location
+                  uuid = "E9EF4C00-F0AF-4D4C-9D3C-82A2F6F3C4C5 - 3e9d081df7e962a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HealthcareAssignment.TopicsViewModel.makeAPICall() -&gt; ()"
+                  moduleName = "HealthcareAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hiteshsharma/Desktop/IOS%20Projects/HealthcareAssignment/HealthcareAssignment/Topics/TopicsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1180">
+               </Location>
+               <Location
+                  uuid = "E9EF4C00-F0AF-4D4C-9D3C-82A2F6F3C4C5 - aaae84ebdad88903"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HealthcareAssignment.TopicsViewModel.makeAPICall() -&gt; ()"
+                  moduleName = "HealthcareAssignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hiteshsharma/Desktop/IOS%20Projects/HealthcareAssignment/HealthcareAssignment/Topics/TopicsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E21D326-178A-49EB-9170-0DAF06903B12"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthcareAssignment/Topics/TopicsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "makeAPICall()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A3FA3AF-477F-431A-AB7B-069E6693C895"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthcareAssignment/TopicDetail/TopicDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "makeAPICall(id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D896D5C-5565-47DC-85EF-CDECDB4C82C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthcareAssignment/TopicDetail/TopicDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "makeAPICall(id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C34AD733-395E-461C-8F0A-04D2C66A048D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HealthcareAssignment/TopicDetail/TopicDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "makeAPICall(id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
